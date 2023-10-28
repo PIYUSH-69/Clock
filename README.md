@@ -2,8 +2,6 @@
 
 This is a simple digital clock created using HTML, CSS, and JavaScript. It displays the current time and updates in real-time. You can use this as a standalone clock widget or integrate it into your web projects.
 
-![Clock Preview](clock-preview.png)
-
 ## Table of Contents
 
 - [Demo](#demo)
@@ -11,10 +9,6 @@ This is a simple digital clock created using HTML, CSS, and JavaScript. It displ
 - [How to Use](#how-to-use)
 - [Customization](#customization)
 - [License](#license)
-
-## Demo
-
-You can see a live demo of the clock here: [Clock Demo](https://example.com/clock)
 
 ## Features
 
